@@ -29,4 +29,4 @@ The data dictionary provided with data is as follows:
 - postalCode - The postal code for the location of the vehicle.
 - lastSeenOnline - When the crawler saw this ad last online.
 
-The aim of this project is to clean the data and analyze the included used car listings. You'll also become familiar with some of the unique benefits jupyter notebook provides for pandas.
+The aim of this project is to clean the data and analyze the included used car listings. Also to become familiar with some of the unique benefits jupyter notebook provides for pandas.
